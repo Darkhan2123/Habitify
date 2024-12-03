@@ -1,0 +1,200 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "darkhan@gmail.com",
+      "password": "password123",
+      "name": "Aukenov Darkhan"
+    }
+  ],
+  "habits": [
+    {
+      "id": "1",
+      "name": "Morning Meditationasd",
+      "streak": 5,
+      "completed": false
+    },
+    {
+      "id": "2",
+      "name": "Read for 30 minutes",
+      "streak": 12,
+      "completed": true
+    },
+    {
+      "id": "3",
+      "name": "Exercise",
+      "streak": 4,
+      "completed": true
+    }
+  ],
+  "areas": [
+    {
+      "id": "swimming",
+      "name": "Swimming",
+      "description": "Master the art of swimming and improve your fitness.",
+      "gainDescription": "By completing this area, you'll enhance your swimming skills, build endurance, and improve overall fitness.",
+      "weeks": [
+        {
+          "number": 1,
+          "tasks": [
+            "Day 1: Learn basic water safety and pool rules.",
+            "Day 2: Get comfortable in the water; submerge your face and blow bubbles.",
+            "Day 3: Practice floating on your back and stomach.",
+            "Day 4: Learn proper kicking techniques using a kickboard.",
+            "Day 5: Combine floating and kicking; move across the pool with assistance.",
+            "Day 6: Learn basic arm movements for freestyle stroke.",
+            "Day 7: Rest and review all skills learned this week."
+          ]
+        },
+        {
+          "number": 2,
+          "tasks": [
+            "Day 1: Practice freestyle arm movements with kicking.",
+            "Day 2: Learn side breathing techniques; practice with assistance.",
+            "Day 3: Combine breathing with freestyle stroke in short distances.",
+            "Day 4: Swim 25 meters freestyle without stopping.",
+            "Day 5: Learn backstroke basics; practice arm and leg coordination.",
+            "Day 6: Swim 25 meters backstroke.",
+            "Day 7: Rest and reflect on progress."
+          ]
+        },
+        {
+          "number": 3,
+          "tasks": [
+            "Day 1: Improve freestyle technique; focus on body rotation.",
+            "Day 2: Increase endurance; swim 50 meters freestyle.",
+            "Day 3: Learn breaststroke kick and arm movements separately.",
+            "Day 4: Combine breaststroke movements; swim short distances.",
+            "Day 5: Practice diving techniques from the poolside.",
+            "Day 6: Swim 50 meters combining different strokes.",
+            "Day 7: Rest and plan goals for next week."
+          ]
+        },
+        {
+          "number": 4,
+          "tasks": [
+            "Day 1: Learn butterfly kick (dolphin kick) basics.",
+            "Day 2: Practice butterfly arm movements on land and in water.",
+            "Day 3: Attempt full butterfly stroke in short distances.",
+            "Day 4: Swim 75 meters freestyle; focus on consistent breathing.",
+            "Day 5: Practice flip turns for freestyle and backstroke.",
+            "Day 6: Swim 100 meters combining all strokes learned.",
+            "Day 7: Celebrate progress and set future swimming goals."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meditation",
+      "name": "Meditation",
+      "description": "Develop a consistent meditation practice for mental clarity.",
+      "gainDescription": "By completing this area, you'll enhance mindfulness, reduce stress, and improve emotional well-being through regular meditation.",
+      "weeks": [
+        {
+          "number": 1,
+          "tasks": [
+            "Day 1: Meditate for 5 minutes focusing on your breath.",
+            "Day 2: Practice deep breathing exercises for relaxation.",
+            "Day 3: Create a quiet meditation space in your home.",
+            "Day 4: Meditate for 7 minutes; focus on body scanning.",
+            "Day 5: Practice mindful walking for 10 minutes outdoors.",
+            "Day 6: Meditate for 7 minutes using a guided meditation app.",
+            "Day 7: Reflect on your first week in a meditation journal."
+          ]
+        },
+        {
+          "number": 2,
+          "tasks": [
+            "Day 1: Increase meditation time to 10 minutes; focus on thoughts passing by.",
+            "Day 2: Try a loving-kindness meditation for self-compassion.",
+            "Day 3: Practice mindful eating during a meal.",
+            "Day 4: Meditate for 10 minutes; focus on sounds around you.",
+            "Day 5: Attend a local meditation or yoga class.",
+            "Day 6: Practice mindfulness during routine activities.",
+            "Day 7: Journal about changes you've noticed this week."
+          ]
+        },
+        {
+          "number": 3,
+          "tasks": [
+            "Day 1: Meditate for 15 minutes; focus on emotions without judgment.",
+            "Day 2: Explore different meditation techniques (e.g., mantra meditation).",
+            "Day 3: Practice mindful listening in conversations.",
+            "Day 4: Meditate outdoors; connect with nature.",
+            "Day 5: Try a body scan meditation before bed.",
+            "Day 6: Meditate for 15 minutes; focus on gratitude.",
+            "Day 7: Reflect on your journey and set intentions."
+          ]
+        },
+        {
+          "number": 4,
+          "tasks": [
+            "Day 1: Meditate for 20 minutes; practice visualization.",
+            "Day 2: Incorporate affirmations into your meditation.",
+            "Day 3: Practice mindfulness during a creative activity (e.g., drawing).",
+            "Day 4: Explore guided meditations on topics of interest.",
+            "Day 5: Meditate in a group setting or online session.",
+            "Day 6: Review your meditation journal; note progress.",
+            "Day 7: Plan how to maintain your practice long-term."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coding",
+      "name": "Coding (Frontend and React)",
+      "description": "Build your frontend development skills and learn React.",
+      "gainDescription": "By completing this area, you'll gain proficiency in frontend development and React, enabling you to build dynamic web applications.",
+      "weeks": [
+        {
+          "number": 1,
+          "tasks": [
+            "Day 1: Set up your development environment (install VSCode, Node.js).",
+            "Day 2: Learn HTML basics; create a simple webpage with headings and paragraphs.",
+            "Day 3: Learn CSS basics; style your webpage with colors and fonts.",
+            "Day 4: Learn JavaScript basics; write a script to display an alert.",
+            "Day 5: Complete an online tutorial on HTML, CSS, and JavaScript.",
+            "Day 6: Build a personal homepage combining HTML, CSS, and JavaScript.",
+            "Day 7: Review and practice; plan for next week's topics."
+          ]
+        },
+        {
+          "number": 2,
+          "tasks": [
+            "Day 1: Learn about version control; set up Git and GitHub.",
+            "Day 2: Learn Git basics; commit your project to a GitHub repository.",
+            "Day 3: Study CSS Flexbox; create a layout using Flexbox.",
+            "Day 4: Learn about CSS Grid; practice creating complex layouts.",
+            "Day 5: Make your website responsive using media queries.",
+            "Day 6: Explore CSS frameworks like Bootstrap or Tailwind CSS.",
+            "Day 7: Reflect on your progress; prepare for learning React."
+          ]
+        },
+        {
+          "number": 3,
+          "tasks": [
+            "Day 1: Learn the basics of React; understand components and JSX.",
+            "Day 2: Set up a React project using Create React App.",
+            "Day 3: Learn about props and how to pass data between components.",
+            "Day 4: Study state management with useState hook.",
+            "Day 5: Build a simple todo app in React.",
+            "Day 6: Learn about useEffect hook for side effects.",
+            "Day 7: Review your React app; identify areas for improvement."
+          ]
+        },
+        {
+          "number": 4,
+          "tasks": [
+            "Day 1: Learn about React Router for navigation.",
+            "Day 2: Implement routing in your React app.",
+            "Day 3: Study context API for global state management.",
+            "Day 4: Learn about fetching data from APIs with Axios or Fetch API.",
+            "Day 5: Integrate an external API into your React app.",
+            "Day 6: Deploy your React app using Netlify or Vercel.",
+            "Day 7: Reflect on your learning journey; set future goals."
+          ]
+        }
+      ]
+    }
+  ]
+}
